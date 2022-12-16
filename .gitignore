@@ -1,0 +1,7 @@
+target
+.Dove.man
+.vscode
+build/
+output.bpl
+.DS_Store
+.idea
